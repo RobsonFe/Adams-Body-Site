@@ -1,4 +1,4 @@
-
+/* eslint-disable no-unused-vars */
 import React from 'react'
 import logo from '../image/vintage-1751222.svg'
 import './header.css'

@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from 'react';
 import dragon from '../image/novoDragao.jpeg';
 import './home.css'
