@@ -1,0 +1,17 @@
+#navbar{
+    padding: 10px;
+    margin: 10px auto;
+}
+
+#navbar a{
+    width: 80px;
+    color: #444;
+}
+
+#navbar a:hover{
+    color: #c1b696;
+}
+
+.navl{
+    text-decoration: none;
+}
